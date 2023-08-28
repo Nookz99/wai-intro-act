@@ -1,10 +1,10 @@
 ---
-title: Accessibility Conformance Testing (ACT) Overview
+Title: Accessibility Conformance Testing (ACT) Overview
 permalink: /standards-guidelines/act/
 lang: en
-github:
+GitHub:
   repository: w3c/wai-intro-act
-feedbackmail: wai@w3.org
+feedback email: wai@w3.org
 footer: >
   <p><strong>Date:</strong> Updated 30 October 2020.</p>
   <p><strong>Editors:</strong> <a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a> and <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
